@@ -59,7 +59,7 @@
 <li>即5ml A液，10ml B液和500ml水混合可配500ml左右的工作液。</li>
 <li>顯影液一次性使用，但顯影後不要丟棄用過的顯影液，應當在定影後再次倒入用過的顯影液，做兩分鐘的“後浴”處理。</li>
 <li><strong>工作液極易氧化，必須在使用第一次水洗後，顯影前配置，配置後立即使用</strong></li>
-<li><strong>必須使用無酸非堅膜形定影液使用（如FT-3，FT-4）</strong><h3 id="顯影時間"><a href="#顯影時間" class="headerlink" title="顯影時間"></a>顯影時間</h3><table>
+<li><strong>必須使用無酸非堅膜形定影液使用（如TF-3，TF-4）</strong><h3 id="顯影時間"><a href="#顯影時間" class="headerlink" title="顯影時間"></a>顯影時間</h3><table>
 <thead>
 <tr>
 <th align="center">菲林</th>
@@ -142,6 +142,65 @@
       <tags>
         <tag>黑白暗房</tag>
         <tag>顯影</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>兩種無酸非堅膜定影液</title>
+    <url>/2020/04/15/non-acid-fixing/</url>
+    <content><![CDATA[<p>本文提供TF3定影液和單海波定影液的配方。TF3定影液成本較高，單用海波（硫代硫酸鈉）容易氧化且定影後需要更多的水洗。故通常黑白沖洗中較少使用，一般用於焦酚顯影劑等特殊工藝。</p>
+<h2 id="TF-3定影劑"><a href="#TF-3定影劑" class="headerlink" title="TF-3定影劑"></a>TF-3定影劑</h2><table>
+<thead>
+<tr>
+<th align="center">藥品</th>
+<th align="center">質量</th>
+<th align="center">備註</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">硫代硫酸銨</td>
+<td align="center">800ml</td>
+<td align="center">60%質量分數</td>
+</tr>
+<tr>
+<td align="center">无水亞硫酸鈉</td>
+<td align="center">60g</td>
+<td align="center">約0.48mol，也可使用120g七水合亞硫酸鈉</td>
+</tr>
+<tr>
+<td align="center">偏硼酸鈉（柯達克爾）</td>
+<td align="center">5g</td>
+<td align="center"></td>
+</tr>
+</tbody></table>
+<p>加水至1000ml即成TF-3定影劑儲存液，使用時按1:4配置工作液</p>
+<h1 id="注意：硫代硫酸銨，偏硼酸鈉對粘膜有刺激性，請勿接觸口鼻和眼睛，可能有累積毒性！"><a href="#注意：硫代硫酸銨，偏硼酸鈉對粘膜有刺激性，請勿接觸口鼻和眼睛，可能有累積毒性！" class="headerlink" title="注意：硫代硫酸銨，偏硼酸鈉對粘膜有刺激性，請勿接觸口鼻和眼睛，可能有累積毒性！"></a>注意：硫代硫酸銨，偏硼酸鈉對粘膜有刺激性，請勿接觸口鼻和眼睛，可能有累積毒性！</h1><h2 id="單用海波定影劑"><a href="#單用海波定影劑" class="headerlink" title="單用海波定影劑"></a>單用海波定影劑</h2><table>
+<thead>
+<tr>
+<th align="center">藥品</th>
+<th align="center">質量</th>
+<th align="center">備註</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">蒸餾水</td>
+<td align="center">750ml</td>
+<td align="center">40℃</td>
+</tr>
+<tr>
+<td align="center">五水合硫代硫酸鈉</td>
+<td align="center">200~350g</td>
+<td align="center">約1mol，可用160g無水硫代硫酸鈉</td>
+</tr>
+</tbody></table>
+<p>加水至1000ml即爲工作液，本配方易氧化，應當現配現用，顯影後應充分水洗，不要使用停顯液。定影後需要充分水洗以防菲林氧化發黃。</p>
+<h2 id="定影時間"><a href="#定影時間" class="headerlink" title="定影時間"></a>定影時間</h2><p>和F5定影劑基本相同，定影5~10分鐘即可。</p>
+]]></content>
+      <categories>
+        <category>攝影</category>
+      </categories>
+      <tags>
+        <tag>黑白暗房</tag>
+        <tag>定影</tag>
       </tags>
   </entry>
   <entry>
