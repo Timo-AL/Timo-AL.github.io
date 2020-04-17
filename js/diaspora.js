@@ -461,12 +461,12 @@ $(function() {
                 if (num >= Pages) {
                     return
                 }
-                tag.html('加载中...').data('status', 'loading')
+                tag.html('裝載中...').data('status', 'loading')
                 Diaspora.loading()
                 Diaspora.L(tag.attr('href'), function(data) {
                     var link = $(data).find('.more').attr('href');
                     if (link != undefined) {
-                        tag.attr('href', link).html('加载更多').data('status', 'loaded')
+                        tag.attr('href', link).html('載入更多').data('status', 'loaded')
                         tag.data('page', parseInt(tag.data('page')) + 1)
                     } else {
                         $('#pager').remove()
@@ -477,7 +477,7 @@ $(function() {
                     Diaspora.loaded()
                     $('html,body').animate({ scrollTop: tempScrollTop + 400 }, 500);
                 }, function() {
-                    tag.html('加载更多').data('status', 'loaded')
+                    tag.html('載入更多').data('status', 'loaded')
                 })
                 return false;
                 break;
@@ -617,7 +617,7 @@ $(function() {
 					gitalk.render('gitalk-container')
 					Diaspora.loaded();
 				}else{
-					$('#gitalk-container').html("评论已关闭");
+					$('#gitalk-container').html("評論已關閉");
 				}
                 return false;
                 break;
