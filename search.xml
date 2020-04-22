@@ -1,139 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>POTA超軟調顯影液</title>
-    <url>/2020/04/15/POTA-Develop/</url>
-    <content><![CDATA[<p>這個配方是我從《感光材料》1984年第二期上發現的大寶貝。文章的標題是《負片用軟調顯影液》作者是笹井明（日）。多虧了cnki有收錄這麼古早的期刊內容，看起來知網的內容還是很不錯的，就是收費噁心，然而有機構帳號又怕啥呢。<br>PS. 笹井明的《彩色照相加工配方集》在中國曾經被翻譯出版，有彩色暗房的小夥伴可以考慮購入參看。<br>POTA顯影液整個配方是非常簡單可靠的。僅使用菲尼酮作爲顯影劑，無毒、對環境友好，而且耐存儲性好。<br>菲尼酮在水中溶解比較困難，可以預先配置成0.05g/ml的菲尼酮的丙二醇溶液，方便量取和使用。</p>
-<h1 id="注意：丙二醇有輕微毒性和刺激性，請不要飲用或接觸口鼻眼睛，皮膚接觸沒有大礙，甚至能消毒。"><a href="#注意：丙二醇有輕微毒性和刺激性，請不要飲用或接觸口鼻眼睛，皮膚接觸沒有大礙，甚至能消毒。" class="headerlink" title="注意：丙二醇有輕微毒性和刺激性，請不要飲用或接觸口鼻眼睛，皮膚接觸沒有大礙，甚至能消毒。"></a>注意：丙二醇有輕微毒性和刺激性，請不要飲用或接觸口鼻眼睛，皮膚接觸沒有大礙，甚至能消毒。</h1><h3 id="配方"><a href="#配方" class="headerlink" title="配方"></a>配方</h3><table>
-<thead>
-<tr>
-<th align="center">藥品</th>
-<th align="center">質量</th>
-<th align="center">備註</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center">水</td>
-<td align="center">750ml</td>
-<td align="center">使用水直接溶解菲尼酮需要40°C的溫水，使用丙二醇溶液則不用</td>
-</tr>
-<tr>
-<td align="center">菲尼酮</td>
-<td align="center">1.5g</td>
-<td align="center"></td>
-</tr>
-<tr>
-<td align="center">無水亞硫酸鈉</td>
-<td align="center">30g</td>
-<td align="center">約0.24mol，也可使用60g七水合亞硫酸鈉</td>
-</tr>
-</tbody></table>
-<p>加水至1000ml即爲工作液可直接使用<br>如感到調性過軟則可以加入0.5~1g對苯二酚</p>
-<h1 id="警告：對苯二酚有毒，請做好相關防護工作，不要直接接觸對苯二酚，更不要食用！"><a href="#警告：對苯二酚有毒，請做好相關防護工作，不要直接接觸對苯二酚，更不要食用！" class="headerlink" title="警告：對苯二酚有毒，請做好相關防護工作，不要直接接觸對苯二酚，更不要食用！"></a>警告：對苯二酚有毒，請做好相關防護工作，不要直接接觸對苯二酚，更不要食用！</h1><h3 id="使用"><a href="#使用" class="headerlink" title="使用"></a>使用</h3><ol>
-<li>對於軟調菲林在20°C下顯影10分鐘左右，可得到軟調的影像。</li>
-<li>亦可用於高反差拷貝片，可按ISO3~6拍攝，在20°C下顯影4分鐘左右，可得到正常反差的圖像</li>
-</ol>
-<h3 id="碎碎念"><a href="#碎碎念" class="headerlink" title="碎碎念"></a>碎碎念</h3><p>原文給出了尼盤SS，櫻花SS，櫻花3X這幾款軟調黑白菲林的顯影時間，應該是日本本土產品，而且隨着菲林的使用減少大概早已停產。現在容易購得的軟調菲林大致只剩下福馬320和LOMO了，對於這兩款膠捲我也沒有實際用這個配方沖洗測試過，如果有人試出了最佳時間，可以在github page的頁面給我發issues，我會更新這個頁面。</p>
-]]></content>
-      <categories>
-        <category>黑白顯影配方</category>
-      </categories>
-      <tags>
-        <tag>軟調</tag>
-        <tag>環保</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>柯達SD-4軟調菲林用增感顯影液</title>
-    <url>/2020/04/16/SD-4-Develop/</url>
-    <content><![CDATA[<p>一般的顯影液隨着顯影時間的增加，畫面呈現的調性會越來越硬。而增感顯影卻需要延長顯影時間，使用一般的工藝勢必會使軟調菲林上的畫面調性變硬。柯達SD-4顯影液巧妙利用了二浴的方法，通過限制顯影速度和顯影劑計量的方式，在增感的同時可以保持菲林柔軟的調性，適合曝光不足菲林的顯影。顯影液分爲A液和B液，分開使用不要混合。</p>
-<h1 id="警告：對苯二酚有毒，請做好相關防護工作，不要直接接觸對苯二酚，更不要食用！"><a href="#警告：對苯二酚有毒，請做好相關防護工作，不要直接接觸對苯二酚，更不要食用！" class="headerlink" title="警告：對苯二酚有毒，請做好相關防護工作，不要直接接觸對苯二酚，更不要食用！"></a>警告：對苯二酚有毒，請做好相關防護工作，不要直接接觸對苯二酚，更不要食用！</h1><h1 id="注意：米吐尓接触易发生过敏，请做好防护！對水生生物有毒且會危害水質，顯影後廢液請不要直接排入自然水體！"><a href="#注意：米吐尓接触易发生过敏，请做好防护！對水生生物有毒且會危害水質，顯影後廢液請不要直接排入自然水體！" class="headerlink" title="注意：米吐尓接触易发生过敏，请做好防护！對水生生物有毒且會危害水質，顯影後廢液請不要直接排入自然水體！"></a>注意：米吐尓接触易发生过敏，请做好防护！對水生生物有毒且會危害水質，顯影後廢液請不要直接排入自然水體！</h1><h1 id="注意：溴化鉀對消化道粘膜有刺激性和神經抑制作用，使用時請做好防護！"><a href="#注意：溴化鉀對消化道粘膜有刺激性和神經抑制作用，使用時請做好防護！" class="headerlink" title="注意：溴化鉀對消化道粘膜有刺激性和神經抑制作用，使用時請做好防護！"></a>注意：溴化鉀對消化道粘膜有刺激性和神經抑制作用，使用時請做好防護！</h1><h1 id="注意：碘化鉀可能導致皮膚過敏，可能對哺乳期兒童造成危害，對水生生物有毒且會危害水質，使用時請佩戴手套，廢液請不要直接排入自然水體！"><a href="#注意：碘化鉀可能導致皮膚過敏，可能對哺乳期兒童造成危害，對水生生物有毒且會危害水質，使用時請佩戴手套，廢液請不要直接排入自然水體！" class="headerlink" title="注意：碘化鉀可能導致皮膚過敏，可能對哺乳期兒童造成危害，對水生生物有毒且會危害水質，使用時請佩戴手套，廢液請不要直接排入自然水體！"></a>注意：碘化鉀可能導致皮膚過敏，可能對哺乳期兒童造成危害，對水生生物有毒且會危害水質，使用時請佩戴手套，廢液請不要直接排入自然水體！</h1><h3 id="顯影液A配方"><a href="#顯影液A配方" class="headerlink" title="顯影液A配方"></a>顯影液A配方</h3><table>
-<thead>
-<tr>
-<th align="center">藥品</th>
-<th align="center">質量</th>
-<th align="center">備註</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center">蒸餾水</td>
-<td align="center">800ml</td>
-<td align="center"></td>
-</tr>
-<tr>
-<td align="center">米吐爾</td>
-<td align="center">5g</td>
-<td align="center"></td>
-</tr>
-<tr>
-<td align="center">無水亞硫酸鈉</td>
-<td align="center">100g</td>
-<td align="center">約0.8mol，也可使用200g七水合亞硫酸鈉</td>
-</tr>
-<tr>
-<td align="center">對苯二酚</td>
-<td align="center">2g</td>
-<td align="center"></td>
-</tr>
-<tr>
-<td align="center">亞硫酸氫鈉</td>
-<td align="center">5g</td>
-<td align="center"></td>
-</tr>
-<tr>
-<td align="center">蔗糖</td>
-<td align="center">100g</td>
-<td align="center"></td>
-</tr>
-</tbody></table>
-<p>加水到1000ml</p>
-<h3 id="顯影液B配方"><a href="#顯影液B配方" class="headerlink" title="顯影液B配方"></a>顯影液B配方</h3><table>
-<thead>
-<tr>
-<th align="center">藥品</th>
-<th align="center">質量</th>
-<th align="center">備註</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center">蒸餾水</td>
-<td align="center">800ml</td>
-<td align="center"></td>
-</tr>
-<tr>
-<td align="center">無水亞硫酸鈉</td>
-<td align="center">100g</td>
-<td align="center">約0.8mol，也可使用200g七水合亞硫酸鈉</td>
-</tr>
-<tr>
-<td align="center">無水碳酸鈉</td>
-<td align="center">10g</td>
-<td align="center">約0.09mol，也可使用27g十水合碳酸鈉</td>
-</tr>
-<tr>
-<td align="center">溴化鉀</td>
-<td align="center">0.5g</td>
-<td align="center"></td>
-</tr>
-<tr>
-<td align="center">0.1%碘化鉀溶液</td>
-<td align="center">10ml</td>
-<td align="center"></td>
-</tr>
-</tbody></table>
-<p>加水到1000ml</p>
-<h3 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h3><p>兩種液體配置好後即爲工作液，不要混合。在20°C下。先使用A液對菲林顯影4—5分鐘，再直接將菲林放入B液中繼續顯影4—5分鐘。改變在A液中的顯影時間能調節調性，但調節幅度較小。因爲從A液帶入B液的顯影劑的計量和菲林的乳劑厚度呈現正相關，使用現代薄乳劑（HP5，TMAX等）的菲林時應當延長在A液中的顯影時間，但如此操作也會減弱軟化影調的作用。</p>
-<h3 id="作用機理"><a href="#作用機理" class="headerlink" title="作用機理"></a>作用機理</h3><p>（參考自《寫真工業》期刊）A液中缺少鹼作爲促進劑，且有蔗糖作爲抑制劑，反應速度緩慢。當菲林放入B液時，因爲鹼的參與，反應速度大大加快，但只有從A液帶來的少量顯影劑；高光部分顯影快速消耗顯影劑結束反應，顯影被抑制；暗部顯影劑消耗緩慢，顯影時間長，顯影被增強。故可以得到高光抑制，暗部增強的軟調性影像。</p>
-]]></content>
-      <categories>
-        <category>黑白顯影配方</category>
-      </categories>
-      <tags>
-        <tag>軟調</tag>
-        <tag>增感</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>兩種顯影定影合一沖洗配方</title>
     <url>/2020/04/16/Develop-Fix-Onec/</url>
     <content><![CDATA[<p>本文將介紹兩種顯影定影合一的黑白菲林沖洗劑，配方來自期刊《理化檢驗》1979年04期。<br>作者用這兩種沖洗液沖洗使用柯達菲林拍攝的金相顯微照片，博主查了一下資料，金相顯微一般使用全色黑白菲林，而且要求顆粒細膩。故推測這兩個配方可以用於沖洗普通攝影照片，而且應該可以獲得比較細膩的顆粒。</p>
@@ -256,310 +123,6 @@
       <tags>
         <tag>顯影劑</tag>
         <tag>定影劑</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>歡迎來到銻墨的小世界</title>
-    <url>/2030/03/30/Placeholder/</url>
-    <content><![CDATA[<p>這是一個很普通的個人博客，用來記錄一些自己想要記住的東西，可能比較無趣，但來了就看看吧。<br>收錄的黑白暗房配方來源比較雜亂，不能保證出片效果。以及不少暗房藥物其實有一定毒性，請慎重行事。對於有危險的藥物我也會在頁面中給出警示，博主不對使用本站記載配方導致的一切後果負責。<br>至於本文的日期嘛，爲了置頂，只得創作一篇來自未來的文章了（笑）。</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>一種完全避免使用危險藥品的黑白反轉漂白劑</title>
-    <url>/2020/04/19/a-think-about-bleach/</url>
-    <content><![CDATA[<h1 id="警告：本配方僅爲預想，未經任何驗證，如果試驗我會第一時間更新本文，有興趣的可以米娜可以自行嘗試，不對洗壞菲林負責！"><a href="#警告：本配方僅爲預想，未經任何驗證，如果試驗我會第一時間更新本文，有興趣的可以米娜可以自行嘗試，不對洗壞菲林負責！" class="headerlink" title="警告：本配方僅爲預想，未經任何驗證，如果試驗我會第一時間更新本文，有興趣的可以米娜可以自行嘗試，不對洗壞菲林負責！"></a>警告：本配方僅爲預想，未經任何驗證，如果試驗我會第一時間更新本文，有興趣的可以米娜可以自行嘗試，不對洗壞菲林負責！</h1><p>本方的靈感來自C41工藝，經過C41工藝沖洗後的彩色菲林，呈現的影像其實完全來自彩色顯影劑中的染料，銀和銀鹽在漂白和定影兩個過程中會被完全洗去（日本寫真工業會推薦的彩色沖洗方案中漂白和定影是同時進行的），漂白的目的是洗去已經顯影的銀，而定影是去除未感光的銀鹽。那麼C41的漂白液能洗去彩色菲林中的銀，應該也可以用於洗去黑白菲林顯影出的銀。<br>接下來我們看看C41漂白液中的主要有效成分EDTA鐵鈉。EDTA鐵鈉是一個很安全的藥品，可以用於食品，也可以作爲微量元素化肥，有氧化性，可以漂白或者減薄菲林，簡直是完美的漂白藥物候選人。<br>通過《感光材料》1996年03期的文章《彩色胶片冲洗加工中的漂白技术》（這文章是已經涼了的樂凱膠片的工作人員寫的，笑）中詳細結實了EDTA鐵鈉的作用機理，本着太長不看的原則，我直接給出下面的幾條結論。</p>
-<ol>
-<li>反應實質爲Br<sup>-</sup>+ Fe <sup>3+</sup> + Ag  == AgBr+Fe <sup>2+ </sup>，可以推測出漂白劑中的溴化物不可省略。</li>
-<li>酸性條件會破壞EDTA鐵鹽的螯和以放出氧化性的Fe <sup>3+</sup> ，可推出反應應當在酸性條件下進行。</li>
-<li>反應生產的Fe <sup>2+ </sup>會破壞染料中的青色，需要控制PH以控制反應速率，這點對於黑白菲林幾乎沒有影響。</li>
-</ol>
-<p>在參考了柯達的C41配方和日本寫真協會的配方以後，我推測出了下面的配方</p>
-<h1 id="注意：溴化鉀對消化道粘膜有刺激性和神經抑制作用，使用時請做好防護！"><a href="#注意：溴化鉀對消化道粘膜有刺激性和神經抑制作用，使用時請做好防護！" class="headerlink" title="注意：溴化鉀對消化道粘膜有刺激性和神經抑制作用，使用時請做好防護！"></a>注意：溴化鉀對消化道粘膜有刺激性和神經抑制作用，使用時請做好防護！</h1><h3 id="EDTA鐵鹽-KBr漂白液"><a href="#EDTA鐵鹽-KBr漂白液" class="headerlink" title="EDTA鐵鹽+KBr漂白液"></a>EDTA鐵鹽+KBr漂白液</h3><table>
-<thead>
-<tr>
-<th align="center">藥品</th>
-<th align="center">質量</th>
-<th align="center">備註</th>
-<th align="center">功效</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center">蒸餾水</td>
-<td align="center">800ml</td>
-<td align="center"></td>
-<td align="center">溶劑</td>
-</tr>
-<tr>
-<td align="center">EDTA鐵鈉</td>
-<td align="center">100g</td>
-<td align="center"></td>
-<td align="center">將顯影出的銀氧化爲銀離子</td>
-</tr>
-<tr>
-<td align="center">無水硫酸鈉</td>
-<td align="center">30g</td>
-<td align="center">約0.056mol，亦可使用68g十水合硫酸鈉</td>
-<td align="center">堅膜劑，防止漂白過程破壞藥膜</td>
-</tr>
-<tr>
-<td align="center">檸檬酸</td>
-<td align="center">20g</td>
-<td align="center">可使用醋酸替代</td>
-<td align="center">促進EDTA鐵鈉電離</td>
-</tr>
-<tr>
-<td align="center">溴化鉀</td>
-<td align="center">100g</td>
-<td align="center"></td>
-<td align="center">抗灰霧，結合漂白產生的銀離子</td>
-</tr>
-</tbody></table>
-<p>加水到1000ml即爲工作液</p>
-<h3 id="碎碎念"><a href="#碎碎念" class="headerlink" title="碎碎念"></a>碎碎念</h3><p>整個藥水的PH值應該在4附近，可以通過調整酸的使用量調整，酸性強的話反應應該會略快一些，漂白時間應該在四到六分鐘這樣。現在因爲COVID-19無法開學，也沒有辦法測試這個配方的有效性，就只能把想到的東西記下來，等病毒消停了再測試了。</p>
-]]></content>
-      <categories>
-        <category>配方構想</category>
-      </categories>
-      <tags>
-        <tag>反轉</tag>
-        <tag>漂白</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>TEA-14軟調/增感顯影液</title>
-    <url>/2020/04/15/TEA-14-Develop/</url>
-    <content><![CDATA[<p>TEA-14是一種調性較軟的顯影液，有很好的增感性能，20°C下顯影10—15分鐘可以獲得軟性的高寬容度的畫面，顯影15—20分鐘則獲得可以增感3—5倍的中等調性照片。</p>
-<h1 id="警告：對苯二酚有毒，請做好相關防護工作，不要直接接觸對苯二酚，更不要食用！"><a href="#警告：對苯二酚有毒，請做好相關防護工作，不要直接接觸對苯二酚，更不要食用！" class="headerlink" title="警告：對苯二酚有毒，請做好相關防護工作，不要直接接觸對苯二酚，更不要食用！"></a>警告：對苯二酚有毒，請做好相關防護工作，不要直接接觸對苯二酚，更不要食用！</h1><h1 id="警告：三乙醇胺是受國家管制的第三類監控化學品（化武相關），使用時請遵守國家法律法規！"><a href="#警告：三乙醇胺是受國家管制的第三類監控化學品（化武相關），使用時請遵守國家法律法規！" class="headerlink" title="警告：三乙醇胺是受國家管制的第三類監控化學品（化武相關），使用時請遵守國家法律法規！"></a>警告：三乙醇胺是受國家管制的第三類監控化學品（化武相關），使用時請遵守國家法律法規！</h1><h1 id="注意：溴化鉀對消化道粘膜有刺激性和神經抑制作用，使用時請做好防護！"><a href="#注意：溴化鉀對消化道粘膜有刺激性和神經抑制作用，使用時請做好防護！" class="headerlink" title="注意：溴化鉀對消化道粘膜有刺激性和神經抑制作用，使用時請做好防護！"></a>注意：溴化鉀對消化道粘膜有刺激性和神經抑制作用，使用時請做好防護！</h1><h3 id="配方"><a href="#配方" class="headerlink" title="配方"></a>配方</h3><table>
-<thead>
-<tr>
-<th align="center">藥品</th>
-<th align="center">質量</th>
-<th align="center">備註</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center">蒸餾水</td>
-<td align="center">800ml</td>
-<td align="center"></td>
-</tr>
-<tr>
-<td align="center">無水亞硫酸鈉</td>
-<td align="center">4.0g</td>
-<td align="center">約0.032mol，也可使用8g七水合亞硫酸鈉</td>
-</tr>
-<tr>
-<td align="center">溴化鉀</td>
-<td align="center">1g</td>
-<td align="center"></td>
-</tr>
-<tr>
-<td align="center">聚乙二醇6000</td>
-<td align="center">2g</td>
-<td align="center"></td>
-</tr>
-<tr>
-<td align="center">三乙醇胺（濃）</td>
-<td align="center">20ml</td>
-<td align="center"></td>
-</tr>
-<tr>
-<td align="center">菲尼酮</td>
-<td align="center">1.07g</td>
-<td align="center"></td>
-</tr>
-<tr>
-<td align="center">對苯二酚</td>
-<td align="center">0.5g</td>
-<td align="center"></td>
-</tr>
-</tbody></table>
-<p>加水至1000ml即可</p>
-<h3 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h3><p>配好後即爲工作液，直接使用。作爲軟調顯影顯影時間爲10—15分鐘，作爲加感顯影顯影時間15—20分鐘。</p>
-]]></content>
-      <categories>
-        <category>黑白顯影配方</category>
-      </categories>
-      <tags>
-        <tag>軟調</tag>
-        <tag>增感</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>單一海波無酸非堅膜定影液</title>
-    <url>/2020/04/15/non-acid-fixing/</url>
-    <content><![CDATA[<p>海波是最傳統的黑白定影劑，單獨使用海波（硫代硫酸鈉），儲存液容易氧化，且定影後需要更多的水洗，已經很少使用。</p>
-<h2 id="單用海波定影劑"><a href="#單用海波定影劑" class="headerlink" title="單用海波定影劑"></a>單用海波定影劑</h2><table>
-<thead>
-<tr>
-<th align="center">藥品</th>
-<th align="center">質量</th>
-<th align="center">備註</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center">蒸餾水</td>
-<td align="center">750ml</td>
-<td align="center">40℃</td>
-</tr>
-<tr>
-<td align="center">五水合硫代硫酸鈉</td>
-<td align="center">200~350g</td>
-<td align="center">約1mol，可用160g無水硫代硫酸鈉</td>
-</tr>
-</tbody></table>
-<p>加水至1000ml即爲工作液，本配方易氧化，應當現配現用，顯影後應充分水洗，不要使用停顯液。定影後需要充分水洗以防菲林氧化發黃。</p>
-<h2 id="定影時間"><a href="#定影時間" class="headerlink" title="定影時間"></a>定影時間</h2><p>和F5定影劑基本相同，定影5~10分鐘即可。</p>
-]]></content>
-      <categories>
-        <category>黑白定影配方</category>
-      </categories>
-      <tags>
-        <tag>無酸</tag>
-        <tag>非堅膜</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>環境友好且易得的黑白反轉沖洗漂白液</title>
-    <url>/2020/04/18/environment-friendly-bleach/</url>
-    <content><![CDATA[<h1 id="注意：高錳酸鉀具有強氧化性，請勿接觸口鼻眼睛，皮膚接觸會導致暫時的皮膚變色，存放時請遠離有機物和還原劑！"><a href="#注意：高錳酸鉀具有強氧化性，請勿接觸口鼻眼睛，皮膚接觸會導致暫時的皮膚變色，存放時請遠離有機物和還原劑！" class="headerlink" title="注意：高錳酸鉀具有強氧化性，請勿接觸口鼻眼睛，皮膚接觸會導致暫時的皮膚變色，存放時請遠離有機物和還原劑！"></a>注意：高錳酸鉀具有強氧化性，請勿接觸口鼻眼睛，皮膚接觸會導致暫時的皮膚變色，存放時請遠離有機物和還原劑！</h1><h1 id="注意：稀硫酸依舊具有一定的腐蝕性，使用時請注意安全，不慎接觸用大量水沖洗！"><a href="#注意：稀硫酸依舊具有一定的腐蝕性，使用時請注意安全，不慎接觸用大量水沖洗！" class="headerlink" title="注意：稀硫酸依舊具有一定的腐蝕性，使用時請注意安全，不慎接觸用大量水沖洗！"></a>注意：稀硫酸依舊具有一定的腐蝕性，使用時請注意安全，不慎接觸用大量水沖洗！</h1><p>黑白反轉沖洗常用酸性重鉻酸鉀溶液作爲漂白液，但六價鉻有很強的毒性和致癌作用對環境的破壞液很大，而且屬於危險化學品難以購買。後來在無忌論壇找到了使用高錳酸鉀和濃硫酸的代用配方，跟帖中有人提出用硫酸氫鈉替代硫酸是可行的。<br>既然能用硫酸氫鈉替代硫酸，那就說明濃硫酸的特性在這配方中是沒有太大作用的，硫酸主要是爲高錳酸鉀的氧化反應提供酸性環境，可能還起到結合漂白下來的銀離子的作用。所以用稀硫酸也是可以的。<br>但其實硫酸和高錳酸鉀如果作爲化學品的話，都是按照危險化學品管理的（硫酸有腐蝕性，高錳酸鉀易製爆）。但是可以購買商品級的產品作爲代用。用於消毒的高錳酸鉀片是很容易購得的，而且規格確定，一般爲0.2g/粒。而硫酸可以選擇購買鉛酸電池原液，比重爲1.28，查表可得濃度約500g/L或5mol/L。所以可以按照下面的方案配置漂白液。</p>
-<h3 id="A液"><a href="#A液" class="headerlink" title="A液"></a>A液</h3><table>
-<thead>
-<tr>
-<th align="center">原藥品</th>
-<th align="center">質量</th>
-<th align="center">代用品</th>
-<th align="center">質量</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center">蒸餾水</td>
-<td align="center">800ml</td>
-<td align="center">蒸餾水</td>
-<td align="center">800ml</td>
-</tr>
-<tr>
-<td align="center">高錳酸鉀</td>
-<td align="center">4g</td>
-<td align="center">高錳酸鉀消毒片</td>
-<td align="center">20粒</td>
-</tr>
-</tbody></table>
-<p>加水到1000ml，即成存儲液</p>
-<h3 id="B液"><a href="#B液" class="headerlink" title="B液"></a>B液</h3><table>
-<thead>
-<tr>
-<th align="center">原藥品</th>
-<th align="center">質量</th>
-<th align="center">代用品</th>
-<th align="center">質量</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center">蒸餾水</td>
-<td align="center">800ml</td>
-<td align="center">蒸餾水</td>
-<td align="center">800ml</td>
-</tr>
-<tr>
-<td align="center">硫酸氫鈉</td>
-<td align="center">34.5g</td>
-<td align="center">鉛酸電池原液</td>
-<td align="center">57.5ml</td>
-</tr>
-</tbody></table>
-<p>加水到1000ml，即成存儲液</p>
-<h3 id="清洗液"><a href="#清洗液" class="headerlink" title="清洗液"></a>清洗液</h3><table>
-<thead>
-<tr>
-<th align="center">藥品</th>
-<th align="center">質量</th>
-<th align="center">備註</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center">蒸餾水</td>
-<td align="center">800ml</td>
-<td align="center"></td>
-</tr>
-<tr>
-<td align="center">焦亞硫酸鈉</td>
-<td align="center">30g</td>
-<td align="center"></td>
-</tr>
-</tbody></table>
-<p>加水到1000ml，即成工作液</p>
-<h3 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h3><p>沖洗時將A液與B液1:1混合（混合後有效期5小時），倒入顯影罐，漂白時間3—5分鐘，期間不要劇烈攪動。漂白後倒出漂白液，加入清洗液，清洗1—2分鐘即可。</p>
-]]></content>
-      <categories>
-        <category>黑白其他配方</category>
-      </categories>
-      <tags>
-        <tag>漂白</tag>
-        <tag>反转</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>高溫用（堅膜）醋酸停顯液</title>
-    <url>/2020/04/16/hard-film-stop/</url>
-    <content><![CDATA[<p>高溫下沖洗菲林易導致藥膜吸水膨脹導致藥膜脫落，破壞影像，在使用F-5等堅膜定影液的同時，也可以考慮使用堅膜顯影液或堅膜定影液。這種藥水一般會利用硫酸鈉作爲堅膜劑穩固藥膜。這類停顯液中較爲常見的是柯達SB-5和愛克發203 ，下面將給出二者的配方。</p>
-<h1 id="注意：醋酸有揮發性，會強烈刺激眼鼻，長時間直接接觸會損傷皮膚，請做好防護！"><a href="#注意：醋酸有揮發性，會強烈刺激眼鼻，長時間直接接觸會損傷皮膚，請做好防護！" class="headerlink" title="注意：醋酸有揮發性，會強烈刺激眼鼻，長時間直接接觸會損傷皮膚，請做好防護！"></a>注意：醋酸有揮發性，會強烈刺激眼鼻，長時間直接接觸會損傷皮膚，請做好防護！</h1><h3 id="柯達SB-5"><a href="#柯達SB-5" class="headerlink" title="柯達SB-5"></a>柯達SB-5</h3><table>
-<thead>
-<tr>
-<th align="center">藥品</th>
-<th align="center">質量</th>
-<th align="center">備註</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center">蒸餾水</td>
-<td align="center">800ml</td>
-<td align="center"></td>
-</tr>
-<tr>
-<td align="center">醋酸（28%）</td>
-<td align="center">32ml</td>
-<td align="center">亦可使用9ml冰醋酸</td>
-</tr>
-<tr>
-<td align="center">無水硫酸鈉</td>
-<td align="center">45g</td>
-<td align="center">亦可使用102g十水合硫酸鈉</td>
-</tr>
-</tbody></table>
-<p>加水至1000ml</p>
-<h3 id="愛克發203"><a href="#愛克發203" class="headerlink" title="愛克發203"></a>愛克發203</h3><table>
-<thead>
-<tr>
-<th align="center">藥品</th>
-<th align="center">質量</th>
-<th align="center">備註</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center">蒸餾水</td>
-<td align="center">800ml</td>
-<td align="center"></td>
-</tr>
-<tr>
-<td align="center">醋酸（28%）</td>
-<td align="center">71.5ml</td>
-<td align="center">亦可使用20ml冰醋酸</td>
-</tr>
-<tr>
-<td align="center">無水硫酸鈉</td>
-<td align="center">44g</td>
-<td align="center">亦可使用100g十水合硫酸鈉</td>
-</tr>
-</tbody></table>
-<p>加水至1000ml</p>
-<h3 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h3><p>兩配方極爲相似，停顯30S即可，無需特殊處理。</p>
-]]></content>
-      <categories>
-        <category>黑白其他配方</category>
-      </categories>
-      <tags>
-        <tag>停顯</tag>
-        <tag>堅膜</tag>
       </tags>
   </entry>
   <entry>
@@ -707,22 +270,406 @@
       </tags>
   </entry>
   <entry>
-    <title>菲尼酮的丙二醇溶液配置方法</title>
-    <url>/2020/04/15/propanediol-liquor/</url>
-    <content><![CDATA[<p>本文將介紹方法參考自色影無忌論壇。<br>菲尼酮在水中溶解慢，且在顯影劑中使用量少，不易秤取。故將其預先配置成合適濃度的丙二醇溶液以方便取用。</p>
-<h1 id="警告：丙二醇爲可燃液體，明火直接加熱會發生危險，應當水浴加熱或使用電熱器！"><a href="#警告：丙二醇爲可燃液體，明火直接加熱會發生危險，應當水浴加熱或使用電熱器！" class="headerlink" title="警告：丙二醇爲可燃液體，明火直接加熱會發生危險，應當水浴加熱或使用電熱器！"></a>警告：丙二醇爲可燃液體，明火直接加熱會發生危險，應當水浴加熱或使用電熱器！</h1><h1 id="注意：丙二醇有輕微毒性和刺激性，請不要飲用或接觸口鼻眼睛，皮膚接觸沒有大礙，甚至能消毒。"><a href="#注意：丙二醇有輕微毒性和刺激性，請不要飲用或接觸口鼻眼睛，皮膚接觸沒有大礙，甚至能消毒。" class="headerlink" title="注意：丙二醇有輕微毒性和刺激性，請不要飲用或接觸口鼻眼睛，皮膚接觸沒有大礙，甚至能消毒。"></a>注意：丙二醇有輕微毒性和刺激性，請不要飲用或接觸口鼻眼睛，皮膚接觸沒有大礙，甚至能消毒。</h1><h3 id="操作方法"><a href="#操作方法" class="headerlink" title="操作方法"></a>操作方法</h3><ol>
-<li>將5g菲尼酮加入100ml丙二醇中，此時非尼酮不能完全溶解。</li>
-<li>輕微加熱混合物到50°C，應當使用水浴或電熱器（磁攪最好，就是貴），加熱過程中攪拌到溶解即可停止加熱。</li>
-<li>待溶液冷卻到室溫，倒入黑色儲液瓶或儲液袋中，防止氧化。</li>
+    <title>POTA超軟調顯影液</title>
+    <url>/2020/04/15/POTA-Develop/</url>
+    <content><![CDATA[<p>這個配方是我從《感光材料》1984年第二期上發現的大寶貝。文章的標題是《負片用軟調顯影液》作者是笹井明（日）。多虧了cnki有收錄這麼古早的期刊內容，看起來知網的內容還是很不錯的，就是收費噁心，然而有機構帳號又怕啥呢。<br>PS. 笹井明的《彩色照相加工配方集》在中國曾經被翻譯出版，有彩色暗房的小夥伴可以考慮購入參看。<br>POTA顯影液整個配方是非常簡單可靠的。僅使用菲尼酮作爲顯影劑，無毒、對環境友好，而且耐存儲性好。<br>菲尼酮在水中溶解比較困難，可以預先配置成0.05g/ml的菲尼酮的丙二醇溶液，方便量取和使用。</p>
+<h1 id="注意：丙二醇有輕微毒性和刺激性，請不要飲用或接觸口鼻眼睛，皮膚接觸沒有大礙，甚至能消毒。"><a href="#注意：丙二醇有輕微毒性和刺激性，請不要飲用或接觸口鼻眼睛，皮膚接觸沒有大礙，甚至能消毒。" class="headerlink" title="注意：丙二醇有輕微毒性和刺激性，請不要飲用或接觸口鼻眼睛，皮膚接觸沒有大礙，甚至能消毒。"></a>注意：丙二醇有輕微毒性和刺激性，請不要飲用或接觸口鼻眼睛，皮膚接觸沒有大礙，甚至能消毒。</h1><h3 id="配方"><a href="#配方" class="headerlink" title="配方"></a>配方</h3><table>
+<thead>
+<tr>
+<th align="center">藥品</th>
+<th align="center">質量</th>
+<th align="center">備註</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">水</td>
+<td align="center">750ml</td>
+<td align="center">使用水直接溶解菲尼酮需要40°C的溫水，使用丙二醇溶液則不用</td>
+</tr>
+<tr>
+<td align="center">菲尼酮</td>
+<td align="center">1.5g</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">無水亞硫酸鈉</td>
+<td align="center">30g</td>
+<td align="center">約0.24mol，也可使用60g七水合亞硫酸鈉</td>
+</tr>
+</tbody></table>
+<p>加水至1000ml即爲工作液可直接使用<br>如感到調性過軟則可以加入0.5~1g對苯二酚</p>
+<h1 id="警告：對苯二酚有毒，請做好相關防護工作，不要直接接觸對苯二酚，更不要食用！"><a href="#警告：對苯二酚有毒，請做好相關防護工作，不要直接接觸對苯二酚，更不要食用！" class="headerlink" title="警告：對苯二酚有毒，請做好相關防護工作，不要直接接觸對苯二酚，更不要食用！"></a>警告：對苯二酚有毒，請做好相關防護工作，不要直接接觸對苯二酚，更不要食用！</h1><h3 id="使用"><a href="#使用" class="headerlink" title="使用"></a>使用</h3><ol>
+<li>對於軟調菲林在20°C下顯影10分鐘左右，可得到軟調的影像。</li>
+<li>亦可用於高反差拷貝片，可按ISO3~6拍攝，在20°C下顯影4分鐘左右，可得到正常反差的圖像</li>
 </ol>
-<h3 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h3><p>配置的溶液中菲尼酮浓度为0.05g/ml，当需要取0.5g菲尼酮时只需要直接量取10ml溶液加入水中即可，其他浓度以此类推，无需使用温水溶解菲尼酮。<br>该溶液耐存储性较好，能长期存储而不失效。</p>
+<h3 id="碎碎念"><a href="#碎碎念" class="headerlink" title="碎碎念"></a>碎碎念</h3><p>原文給出了尼盤SS，櫻花SS，櫻花3X這幾款軟調黑白菲林的顯影時間，應該是日本本土產品，而且隨着菲林的使用減少大概早已停產。現在容易購得的軟調菲林大致只剩下福馬320和LOMO了，對於這兩款膠捲我也沒有實際用這個配方沖洗測試過，如果有人試出了最佳時間，可以在github page的頁面給我發issues，我會更新這個頁面。</p>
 ]]></content>
       <categories>
-        <category>暗房技法</category>
+        <category>黑白顯影配方</category>
       </categories>
       <tags>
-        <tag>顯影劑</tag>
-        <tag>材料準備</tag>
+        <tag>軟調</tag>
+        <tag>環保</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>歡迎來到銻墨的小世界</title>
+    <url>/2030/03/30/Placeholder/</url>
+    <content><![CDATA[<p>這是一個很普通的個人博客，用來記錄一些自己想要記住的東西，可能比較無趣，但來了就看看吧。<br>收錄的黑白暗房配方來源比較雜亂，不能保證出片效果。以及不少暗房藥物其實有一定毒性，請慎重行事。對於有危險的藥物我也會在頁面中給出警示，博主不對使用本站記載配方導致的一切後果負責。<br>至於本文的日期嘛，爲了置頂，只得創作一篇來自未來的文章了（笑）。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>柯達SD-4軟調菲林用增感顯影液</title>
+    <url>/2020/04/16/SD-4-Develop/</url>
+    <content><![CDATA[<p>一般的顯影液隨着顯影時間的增加，畫面呈現的調性會越來越硬。而增感顯影卻需要延長顯影時間，使用一般的工藝勢必會使軟調菲林上的畫面調性變硬。柯達SD-4顯影液巧妙利用了二浴的方法，通過限制顯影速度和顯影劑計量的方式，在增感的同時可以保持菲林柔軟的調性，適合曝光不足菲林的顯影。顯影液分爲A液和B液，分開使用不要混合。</p>
+<h1 id="警告：對苯二酚有毒，請做好相關防護工作，不要直接接觸對苯二酚，更不要食用！"><a href="#警告：對苯二酚有毒，請做好相關防護工作，不要直接接觸對苯二酚，更不要食用！" class="headerlink" title="警告：對苯二酚有毒，請做好相關防護工作，不要直接接觸對苯二酚，更不要食用！"></a>警告：對苯二酚有毒，請做好相關防護工作，不要直接接觸對苯二酚，更不要食用！</h1><h1 id="注意：米吐尓接触易发生过敏，请做好防护！對水生生物有毒且會危害水質，顯影後廢液請不要直接排入自然水體！"><a href="#注意：米吐尓接触易发生过敏，请做好防护！對水生生物有毒且會危害水質，顯影後廢液請不要直接排入自然水體！" class="headerlink" title="注意：米吐尓接触易发生过敏，请做好防护！對水生生物有毒且會危害水質，顯影後廢液請不要直接排入自然水體！"></a>注意：米吐尓接触易发生过敏，请做好防护！對水生生物有毒且會危害水質，顯影後廢液請不要直接排入自然水體！</h1><h1 id="注意：溴化鉀對消化道粘膜有刺激性和神經抑制作用，使用時請做好防護！"><a href="#注意：溴化鉀對消化道粘膜有刺激性和神經抑制作用，使用時請做好防護！" class="headerlink" title="注意：溴化鉀對消化道粘膜有刺激性和神經抑制作用，使用時請做好防護！"></a>注意：溴化鉀對消化道粘膜有刺激性和神經抑制作用，使用時請做好防護！</h1><h1 id="注意：碘化鉀可能導致皮膚過敏，可能對哺乳期兒童造成危害，對水生生物有毒且會危害水質，使用時請佩戴手套，廢液請不要直接排入自然水體！"><a href="#注意：碘化鉀可能導致皮膚過敏，可能對哺乳期兒童造成危害，對水生生物有毒且會危害水質，使用時請佩戴手套，廢液請不要直接排入自然水體！" class="headerlink" title="注意：碘化鉀可能導致皮膚過敏，可能對哺乳期兒童造成危害，對水生生物有毒且會危害水質，使用時請佩戴手套，廢液請不要直接排入自然水體！"></a>注意：碘化鉀可能導致皮膚過敏，可能對哺乳期兒童造成危害，對水生生物有毒且會危害水質，使用時請佩戴手套，廢液請不要直接排入自然水體！</h1><h3 id="顯影液A配方"><a href="#顯影液A配方" class="headerlink" title="顯影液A配方"></a>顯影液A配方</h3><table>
+<thead>
+<tr>
+<th align="center">藥品</th>
+<th align="center">質量</th>
+<th align="center">備註</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">蒸餾水</td>
+<td align="center">800ml</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">米吐爾</td>
+<td align="center">5g</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">無水亞硫酸鈉</td>
+<td align="center">100g</td>
+<td align="center">約0.8mol，也可使用200g七水合亞硫酸鈉</td>
+</tr>
+<tr>
+<td align="center">對苯二酚</td>
+<td align="center">2g</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">亞硫酸氫鈉</td>
+<td align="center">5g</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">蔗糖</td>
+<td align="center">100g</td>
+<td align="center"></td>
+</tr>
+</tbody></table>
+<p>加水到1000ml</p>
+<h3 id="顯影液B配方"><a href="#顯影液B配方" class="headerlink" title="顯影液B配方"></a>顯影液B配方</h3><table>
+<thead>
+<tr>
+<th align="center">藥品</th>
+<th align="center">質量</th>
+<th align="center">備註</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">蒸餾水</td>
+<td align="center">800ml</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">無水亞硫酸鈉</td>
+<td align="center">100g</td>
+<td align="center">約0.8mol，也可使用200g七水合亞硫酸鈉</td>
+</tr>
+<tr>
+<td align="center">無水碳酸鈉</td>
+<td align="center">10g</td>
+<td align="center">約0.09mol，也可使用27g十水合碳酸鈉</td>
+</tr>
+<tr>
+<td align="center">溴化鉀</td>
+<td align="center">0.5g</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">0.1%碘化鉀溶液</td>
+<td align="center">10ml</td>
+<td align="center"></td>
+</tr>
+</tbody></table>
+<p>加水到1000ml</p>
+<h3 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h3><p>兩種液體配置好後即爲工作液，不要混合。在20°C下。先使用A液對菲林顯影4—5分鐘，再直接將菲林放入B液中繼續顯影4—5分鐘。改變在A液中的顯影時間能調節調性，但調節幅度較小。因爲從A液帶入B液的顯影劑的計量和菲林的乳劑厚度呈現正相關，使用現代薄乳劑（HP5，TMAX等）的菲林時應當延長在A液中的顯影時間，但如此操作也會減弱軟化影調的作用。</p>
+<h3 id="作用機理"><a href="#作用機理" class="headerlink" title="作用機理"></a>作用機理</h3><p>（參考自《寫真工業》期刊）A液中缺少鹼作爲促進劑，且有蔗糖作爲抑制劑，反應速度緩慢。當菲林放入B液時，因爲鹼的參與，反應速度大大加快，但只有從A液帶來的少量顯影劑；高光部分顯影快速消耗顯影劑結束反應，顯影被抑制；暗部顯影劑消耗緩慢，顯影時間長，顯影被增強。故可以得到高光抑制，暗部增強的軟調性影像。</p>
+]]></content>
+      <categories>
+        <category>黑白顯影配方</category>
+      </categories>
+      <tags>
+        <tag>軟調</tag>
+        <tag>增感</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>TEA-14軟調/增感顯影液</title>
+    <url>/2020/04/15/TEA-14-Develop/</url>
+    <content><![CDATA[<p>TEA-14是一種調性較軟的顯影液，有很好的增感性能，20°C下顯影10—15分鐘可以獲得軟性的高寬容度的畫面，顯影15—20分鐘則獲得可以增感3—5倍的中等調性照片。</p>
+<h1 id="警告：對苯二酚有毒，請做好相關防護工作，不要直接接觸對苯二酚，更不要食用！"><a href="#警告：對苯二酚有毒，請做好相關防護工作，不要直接接觸對苯二酚，更不要食用！" class="headerlink" title="警告：對苯二酚有毒，請做好相關防護工作，不要直接接觸對苯二酚，更不要食用！"></a>警告：對苯二酚有毒，請做好相關防護工作，不要直接接觸對苯二酚，更不要食用！</h1><h1 id="警告：三乙醇胺是受國家管制的第三類監控化學品（化武相關），使用時請遵守國家法律法規！"><a href="#警告：三乙醇胺是受國家管制的第三類監控化學品（化武相關），使用時請遵守國家法律法規！" class="headerlink" title="警告：三乙醇胺是受國家管制的第三類監控化學品（化武相關），使用時請遵守國家法律法規！"></a>警告：三乙醇胺是受國家管制的第三類監控化學品（化武相關），使用時請遵守國家法律法規！</h1><h1 id="注意：溴化鉀對消化道粘膜有刺激性和神經抑制作用，使用時請做好防護！"><a href="#注意：溴化鉀對消化道粘膜有刺激性和神經抑制作用，使用時請做好防護！" class="headerlink" title="注意：溴化鉀對消化道粘膜有刺激性和神經抑制作用，使用時請做好防護！"></a>注意：溴化鉀對消化道粘膜有刺激性和神經抑制作用，使用時請做好防護！</h1><h3 id="配方"><a href="#配方" class="headerlink" title="配方"></a>配方</h3><table>
+<thead>
+<tr>
+<th align="center">藥品</th>
+<th align="center">質量</th>
+<th align="center">備註</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">蒸餾水</td>
+<td align="center">800ml</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">無水亞硫酸鈉</td>
+<td align="center">4.0g</td>
+<td align="center">約0.032mol，也可使用8g七水合亞硫酸鈉</td>
+</tr>
+<tr>
+<td align="center">溴化鉀</td>
+<td align="center">1g</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">聚乙二醇6000</td>
+<td align="center">2g</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">三乙醇胺（濃）</td>
+<td align="center">20ml</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">菲尼酮</td>
+<td align="center">1.07g</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">對苯二酚</td>
+<td align="center">0.5g</td>
+<td align="center"></td>
+</tr>
+</tbody></table>
+<p>加水至1000ml即可</p>
+<h3 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h3><p>配好後即爲工作液，直接使用。作爲軟調顯影顯影時間爲10—15分鐘，作爲加感顯影顯影時間15—20分鐘。</p>
+]]></content>
+      <categories>
+        <category>黑白顯影配方</category>
+      </categories>
+      <tags>
+        <tag>軟調</tag>
+        <tag>增感</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>一種完全避免使用危險藥品的黑白反轉漂白劑</title>
+    <url>/2020/04/19/a-think-about-bleach/</url>
+    <content><![CDATA[<h1 id="警告：本配方僅爲預想，未經任何驗證，如果試驗我會第一時間更新本文，有興趣的可以米娜可以自行嘗試，不對洗壞菲林負責！"><a href="#警告：本配方僅爲預想，未經任何驗證，如果試驗我會第一時間更新本文，有興趣的可以米娜可以自行嘗試，不對洗壞菲林負責！" class="headerlink" title="警告：本配方僅爲預想，未經任何驗證，如果試驗我會第一時間更新本文，有興趣的可以米娜可以自行嘗試，不對洗壞菲林負責！"></a>警告：本配方僅爲預想，未經任何驗證，如果試驗我會第一時間更新本文，有興趣的可以米娜可以自行嘗試，不對洗壞菲林負責！</h1><p>本方的靈感來自C41工藝，經過C41工藝沖洗後的彩色菲林，呈現的影像其實完全來自彩色顯影劑中的染料，銀和銀鹽在漂白和定影兩個過程中會被完全洗去（日本寫真工業會推薦的彩色沖洗方案中漂白和定影是同時進行的），漂白的目的是洗去已經顯影的銀，而定影是去除未感光的銀鹽。那麼C41的漂白液能洗去彩色菲林中的銀，應該也可以用於洗去黑白菲林顯影出的銀。<br>接下來我們看看C41漂白液中的主要有效成分EDTA鐵鈉。EDTA鐵鈉是一個很安全的藥品，可以用於食品，也可以作爲微量元素化肥，有氧化性，可以漂白或者減薄菲林，簡直是完美的漂白藥物候選人。<br>通過《感光材料》1996年03期的文章《彩色胶片冲洗加工中的漂白技术》（這文章是已經涼了的樂凱膠片的工作人員寫的，笑）中詳細解析了EDTA鐵鈉的作用機理，本着太長不看的原則，我直接給出下面的幾條結論。</p>
+<ol>
+<li>反應實質爲Br<sup>-</sup>+ Fe <sup>3+</sup> + Ag  == AgBr+Fe <sup>2+ </sup>，可以推測出漂白劑中的溴化物不可省略。</li>
+<li>酸性條件會破壞EDTA鐵鹽的螯和以放出氧化性的Fe <sup>3+</sup> ，可推出反應應當在酸性條件下進行。</li>
+<li>反應生產的Fe <sup>2+ </sup>會破壞染料中的青色，需要控制PH以控制反應速率，這點對於黑白菲林幾乎沒有影響。</li>
+</ol>
+<p>在參考了柯達的C41配方和日本寫真協會的配方以後，我推測出了下面的配方</p>
+<h1 id="注意：溴化鉀對消化道粘膜有刺激性和神經抑制作用，使用時請做好防護！"><a href="#注意：溴化鉀對消化道粘膜有刺激性和神經抑制作用，使用時請做好防護！" class="headerlink" title="注意：溴化鉀對消化道粘膜有刺激性和神經抑制作用，使用時請做好防護！"></a>注意：溴化鉀對消化道粘膜有刺激性和神經抑制作用，使用時請做好防護！</h1><h3 id="EDTA鐵鹽-KBr漂白液"><a href="#EDTA鐵鹽-KBr漂白液" class="headerlink" title="EDTA鐵鹽+KBr漂白液"></a>EDTA鐵鹽+KBr漂白液</h3><table>
+<thead>
+<tr>
+<th align="center">藥品</th>
+<th align="center">質量</th>
+<th align="center">備註</th>
+<th align="center">功效</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">蒸餾水</td>
+<td align="center">800ml</td>
+<td align="center"></td>
+<td align="center">溶劑</td>
+</tr>
+<tr>
+<td align="center">EDTA鐵鈉</td>
+<td align="center">100g</td>
+<td align="center"></td>
+<td align="center">將顯影出的銀氧化爲銀離子</td>
+</tr>
+<tr>
+<td align="center">無水硫酸鈉</td>
+<td align="center">30g</td>
+<td align="center">約0.056mol，亦可使用68g十水合硫酸鈉</td>
+<td align="center">堅膜劑，防止漂白過程破壞藥膜</td>
+</tr>
+<tr>
+<td align="center">檸檬酸</td>
+<td align="center">20g</td>
+<td align="center">可使用醋酸替代</td>
+<td align="center">促進EDTA鐵鈉電離</td>
+</tr>
+<tr>
+<td align="center">溴化鉀</td>
+<td align="center">100g</td>
+<td align="center"></td>
+<td align="center">抗灰霧，結合漂白產生的銀離子</td>
+</tr>
+</tbody></table>
+<p>加水到1000ml即爲工作液</p>
+<h3 id="碎碎念"><a href="#碎碎念" class="headerlink" title="碎碎念"></a>碎碎念</h3><p>整個藥水的PH值應該在4附近，可以通過調整酸的使用量調整，酸性強的話反應應該會略快一些，漂白時間應該在四到六分鐘這樣。現在因爲COVID-19無法開學，也沒有辦法測試這個配方的有效性，就只能把想到的東西記下來，等病毒消停了再測試了。</p>
+]]></content>
+      <categories>
+        <category>配方構想</category>
+      </categories>
+      <tags>
+        <tag>反轉</tag>
+        <tag>漂白</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>環境友好且易得的黑白反轉沖洗漂白液</title>
+    <url>/2020/04/18/environment-friendly-bleach/</url>
+    <content><![CDATA[<h1 id="注意：高錳酸鉀具有強氧化性，請勿接觸口鼻眼睛，皮膚接觸會導致暫時的皮膚變色，存放時請遠離有機物和還原劑！"><a href="#注意：高錳酸鉀具有強氧化性，請勿接觸口鼻眼睛，皮膚接觸會導致暫時的皮膚變色，存放時請遠離有機物和還原劑！" class="headerlink" title="注意：高錳酸鉀具有強氧化性，請勿接觸口鼻眼睛，皮膚接觸會導致暫時的皮膚變色，存放時請遠離有機物和還原劑！"></a>注意：高錳酸鉀具有強氧化性，請勿接觸口鼻眼睛，皮膚接觸會導致暫時的皮膚變色，存放時請遠離有機物和還原劑！</h1><h1 id="注意：稀硫酸依舊具有一定的腐蝕性，使用時請注意安全，不慎接觸用大量水沖洗！"><a href="#注意：稀硫酸依舊具有一定的腐蝕性，使用時請注意安全，不慎接觸用大量水沖洗！" class="headerlink" title="注意：稀硫酸依舊具有一定的腐蝕性，使用時請注意安全，不慎接觸用大量水沖洗！"></a>注意：稀硫酸依舊具有一定的腐蝕性，使用時請注意安全，不慎接觸用大量水沖洗！</h1><p>黑白反轉沖洗常用酸性重鉻酸鉀溶液作爲漂白液，但六價鉻有很強的毒性和致癌作用對環境的破壞液很大，而且屬於危險化學品難以購買。後來在無忌論壇找到了使用高錳酸鉀和濃硫酸的代用配方，跟帖中有人提出用硫酸氫鈉替代硫酸是可行的。<br>既然能用硫酸氫鈉替代硫酸，那就說明濃硫酸的特性在這配方中是沒有太大作用的，硫酸主要是爲高錳酸鉀的氧化反應提供酸性環境，可能還起到結合漂白下來的銀離子的作用。所以用稀硫酸也是可以的。<br>但其實硫酸和高錳酸鉀如果作爲化學品的話，都是按照危險化學品管理的（硫酸有腐蝕性，高錳酸鉀易製爆）。但是可以購買商品級的產品作爲代用。用於消毒的高錳酸鉀片是很容易購得的，而且規格確定，一般爲0.2g/粒。而硫酸可以選擇購買鉛酸電池原液，比重爲1.28，查表可得濃度約500g/L或5mol/L。所以可以按照下面的方案配置漂白液。</p>
+<h3 id="A液"><a href="#A液" class="headerlink" title="A液"></a>A液</h3><table>
+<thead>
+<tr>
+<th align="center">原藥品</th>
+<th align="center">質量</th>
+<th align="center">代用品</th>
+<th align="center">質量</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">蒸餾水</td>
+<td align="center">800ml</td>
+<td align="center">蒸餾水</td>
+<td align="center">800ml</td>
+</tr>
+<tr>
+<td align="center">高錳酸鉀</td>
+<td align="center">4g</td>
+<td align="center">高錳酸鉀消毒片</td>
+<td align="center">20粒</td>
+</tr>
+</tbody></table>
+<p>加水到1000ml，即成存儲液</p>
+<h3 id="B液"><a href="#B液" class="headerlink" title="B液"></a>B液</h3><table>
+<thead>
+<tr>
+<th align="center">原藥品</th>
+<th align="center">質量</th>
+<th align="center">代用品</th>
+<th align="center">質量</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">蒸餾水</td>
+<td align="center">800ml</td>
+<td align="center">蒸餾水</td>
+<td align="center">800ml</td>
+</tr>
+<tr>
+<td align="center">硫酸氫鈉</td>
+<td align="center">34.5g</td>
+<td align="center">鉛酸電池原液</td>
+<td align="center">57.5ml</td>
+</tr>
+</tbody></table>
+<p>加水到1000ml，即成存儲液</p>
+<h3 id="清洗液"><a href="#清洗液" class="headerlink" title="清洗液"></a>清洗液</h3><table>
+<thead>
+<tr>
+<th align="center">藥品</th>
+<th align="center">質量</th>
+<th align="center">備註</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">蒸餾水</td>
+<td align="center">800ml</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">焦亞硫酸鈉</td>
+<td align="center">30g</td>
+<td align="center"></td>
+</tr>
+</tbody></table>
+<p>加水到1000ml，即成工作液</p>
+<h3 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h3><p>沖洗時將A液與B液1:1混合（混合後有效期5小時），倒入顯影罐，漂白時間3—5分鐘，期間不要劇烈攪動。漂白後倒出漂白液，加入清洗液，清洗1—2分鐘即可。</p>
+]]></content>
+      <categories>
+        <category>黑白其他配方</category>
+      </categories>
+      <tags>
+        <tag>漂白</tag>
+        <tag>反转</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>高溫用（堅膜）醋酸停顯液</title>
+    <url>/2020/04/16/hard-film-stop/</url>
+    <content><![CDATA[<p>高溫下沖洗菲林易導致藥膜吸水膨脹導致藥膜脫落，破壞影像，在使用F-5等堅膜定影液的同時，也可以考慮使用堅膜顯影液或堅膜定影液。這種藥水一般會利用硫酸鈉作爲堅膜劑穩固藥膜。這類停顯液中較爲常見的是柯達SB-5和愛克發203 ，下面將給出二者的配方。</p>
+<h1 id="注意：醋酸有揮發性，會強烈刺激眼鼻，長時間直接接觸會損傷皮膚，請做好防護！"><a href="#注意：醋酸有揮發性，會強烈刺激眼鼻，長時間直接接觸會損傷皮膚，請做好防護！" class="headerlink" title="注意：醋酸有揮發性，會強烈刺激眼鼻，長時間直接接觸會損傷皮膚，請做好防護！"></a>注意：醋酸有揮發性，會強烈刺激眼鼻，長時間直接接觸會損傷皮膚，請做好防護！</h1><h3 id="柯達SB-5"><a href="#柯達SB-5" class="headerlink" title="柯達SB-5"></a>柯達SB-5</h3><table>
+<thead>
+<tr>
+<th align="center">藥品</th>
+<th align="center">質量</th>
+<th align="center">備註</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">蒸餾水</td>
+<td align="center">800ml</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">醋酸（28%）</td>
+<td align="center">32ml</td>
+<td align="center">亦可使用9ml冰醋酸</td>
+</tr>
+<tr>
+<td align="center">無水硫酸鈉</td>
+<td align="center">45g</td>
+<td align="center">亦可使用102g十水合硫酸鈉</td>
+</tr>
+</tbody></table>
+<p>加水至1000ml</p>
+<h3 id="愛克發203"><a href="#愛克發203" class="headerlink" title="愛克發203"></a>愛克發203</h3><table>
+<thead>
+<tr>
+<th align="center">藥品</th>
+<th align="center">質量</th>
+<th align="center">備註</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">蒸餾水</td>
+<td align="center">800ml</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">醋酸（28%）</td>
+<td align="center">71.5ml</td>
+<td align="center">亦可使用20ml冰醋酸</td>
+</tr>
+<tr>
+<td align="center">無水硫酸鈉</td>
+<td align="center">44g</td>
+<td align="center">亦可使用100g十水合硫酸鈉</td>
+</tr>
+</tbody></table>
+<p>加水至1000ml</p>
+<h3 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h3><p>兩配方極爲相似，停顯30S即可，無需特殊處理。</p>
+]]></content>
+      <categories>
+        <category>黑白其他配方</category>
+      </categories>
+      <tags>
+        <tag>停顯</tag>
+        <tag>堅膜</tag>
       </tags>
   </entry>
   <entry>
@@ -760,8 +707,42 @@
         <category>黑白其他配方</category>
       </categories>
       <tags>
-        <tag>無酸</tag>
         <tag>停顯</tag>
+        <tag>無酸</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>單一海波無酸非堅膜定影液</title>
+    <url>/2020/04/15/non-acid-fixing/</url>
+    <content><![CDATA[<p>海波是最傳統的黑白定影劑，單獨使用海波（硫代硫酸鈉），儲存液容易氧化，且定影後需要更多的水洗，已經很少使用。</p>
+<h2 id="單用海波定影劑"><a href="#單用海波定影劑" class="headerlink" title="單用海波定影劑"></a>單用海波定影劑</h2><table>
+<thead>
+<tr>
+<th align="center">藥品</th>
+<th align="center">質量</th>
+<th align="center">備註</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">蒸餾水</td>
+<td align="center">750ml</td>
+<td align="center">40℃</td>
+</tr>
+<tr>
+<td align="center">五水合硫代硫酸鈉</td>
+<td align="center">200~350g</td>
+<td align="center">約1mol，可用160g無水硫代硫酸鈉</td>
+</tr>
+</tbody></table>
+<p>加水至1000ml即爲工作液，本配方易氧化，應當現配現用，顯影後應充分水洗，不要使用停顯液。定影後需要充分水洗以防菲林氧化發黃。</p>
+<h2 id="定影時間"><a href="#定影時間" class="headerlink" title="定影時間"></a>定影時間</h2><p>和F5定影劑基本相同，定影5~10分鐘即可。</p>
+]]></content>
+      <categories>
+        <category>黑白定影配方</category>
+      </categories>
+      <tags>
+        <tag>無酸</tag>
+        <tag>非堅膜</tag>
       </tags>
   </entry>
   <entry>
@@ -831,6 +812,25 @@
       <tags>
         <tag>無酸</tag>
         <tag>非堅膜</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>菲尼酮的丙二醇溶液配置方法</title>
+    <url>/2020/04/15/propanediol-liquor/</url>
+    <content><![CDATA[<p>本文將介紹方法參考自色影無忌論壇。<br>菲尼酮在水中溶解慢，且在顯影劑中使用量少，不易秤取。故將其預先配置成合適濃度的丙二醇溶液以方便取用。</p>
+<h1 id="警告：丙二醇爲可燃液體，明火直接加熱會發生危險，應當水浴加熱或使用電熱器！"><a href="#警告：丙二醇爲可燃液體，明火直接加熱會發生危險，應當水浴加熱或使用電熱器！" class="headerlink" title="警告：丙二醇爲可燃液體，明火直接加熱會發生危險，應當水浴加熱或使用電熱器！"></a>警告：丙二醇爲可燃液體，明火直接加熱會發生危險，應當水浴加熱或使用電熱器！</h1><h1 id="注意：丙二醇有輕微毒性和刺激性，請不要飲用或接觸口鼻眼睛，皮膚接觸沒有大礙，甚至能消毒。"><a href="#注意：丙二醇有輕微毒性和刺激性，請不要飲用或接觸口鼻眼睛，皮膚接觸沒有大礙，甚至能消毒。" class="headerlink" title="注意：丙二醇有輕微毒性和刺激性，請不要飲用或接觸口鼻眼睛，皮膚接觸沒有大礙，甚至能消毒。"></a>注意：丙二醇有輕微毒性和刺激性，請不要飲用或接觸口鼻眼睛，皮膚接觸沒有大礙，甚至能消毒。</h1><h3 id="操作方法"><a href="#操作方法" class="headerlink" title="操作方法"></a>操作方法</h3><ol>
+<li>將5g菲尼酮加入100ml丙二醇中，此時非尼酮不能完全溶解。</li>
+<li>輕微加熱混合物到50°C，應當使用水浴或電熱器（磁攪最好，就是貴），加熱過程中攪拌到溶解即可停止加熱。</li>
+<li>待溶液冷卻到室溫，倒入黑色儲液瓶或儲液袋中，防止氧化。</li>
+</ol>
+<h3 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h3><p>配置的溶液中菲尼酮浓度为0.05g/ml，当需要取0.5g菲尼酮时只需要直接量取10ml溶液加入水中即可，其他浓度以此类推，无需使用温水溶解菲尼酮。<br>该溶液耐存储性较好，能长期存储而不失效。</p>
+]]></content>
+      <categories>
+        <category>暗房技法</category>
+      </categories>
+      <tags>
+        <tag>顯影劑</tag>
+        <tag>材料準備</tag>
       </tags>
   </entry>
 </search>
